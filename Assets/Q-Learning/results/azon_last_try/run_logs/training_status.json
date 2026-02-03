@@ -1,0 +1,65 @@
+{
+    "KartAgent": {
+        "checkpoints": [
+            {
+                "steps": 12999692,
+                "file_path": "results\\azon_last_try\\KartAgent\\KartAgent-12999692.onnx",
+                "reward": 21.317378640174866,
+                "creation_time": 1769828222.526369,
+                "auxillary_file_paths": [
+                    "results\\azon_last_try\\KartAgent\\KartAgent-12999692.pt"
+                ]
+            },
+            {
+                "steps": 13262275,
+                "file_path": "results\\azon_last_try\\KartAgent\\KartAgent-13262275.onnx",
+                "reward": 20.79938228925069,
+                "creation_time": 1769829139.5187263,
+                "auxillary_file_paths": [
+                    "results\\azon_last_try\\KartAgent\\KartAgent-13262275.pt"
+                ]
+            },
+            {
+                "steps": 13499943,
+                "file_path": "results\\azon_last_try\\KartAgent\\KartAgent-13499943.onnx",
+                "reward": null,
+                "creation_time": 1769861741.0632937,
+                "auxillary_file_paths": [
+                    "results\\azon_last_try\\KartAgent\\KartAgent-13499943.pt"
+                ]
+            },
+            {
+                "steps": 13999903,
+                "file_path": "results\\azon_last_try\\KartAgent\\KartAgent-13999903.onnx",
+                "reward": 21.36078029870987,
+                "creation_time": 1769863202.2659955,
+                "auxillary_file_paths": [
+                    "results\\azon_last_try\\KartAgent\\KartAgent-13999903.pt"
+                ]
+            },
+            {
+                "steps": 14239789,
+                "file_path": "results\\azon_last_try\\KartAgent\\KartAgent-14239789.onnx",
+                "reward": 21.357144743204117,
+                "creation_time": 1769863906.2519708,
+                "auxillary_file_paths": [
+                    "results\\azon_last_try\\KartAgent\\KartAgent-14239789.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14239789,
+            "file_path": "results\\azon_last_try\\KartAgent.onnx",
+            "reward": 21.357144743204117,
+            "creation_time": 1769863906.2519708,
+            "auxillary_file_paths": [
+                "results\\azon_last_try\\KartAgent\\KartAgent-14239789.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "KartAgent": {
+        "checkpoints": [
+            {
+                "steps": 29999038,
+                "file_path": "results\\abdo_try_fixes\\KartAgent\\KartAgent-29999038.onnx",
+                "reward": -1.2841971442103386,
+                "creation_time": 1769767824.2896888,
+                "auxillary_file_paths": [
+                    "results\\abdo_try_fixes\\KartAgent\\KartAgent-29999038.pt"
+                ]
+            },
+            {
+                "steps": 30499304,
+                "file_path": "results\\abdo_try_fixes\\KartAgent\\KartAgent-30499304.onnx",
+                "reward": null,
+                "creation_time": 1769768679.6439035,
+                "auxillary_file_paths": [
+                    "results\\abdo_try_fixes\\KartAgent\\KartAgent-30499304.pt"
+                ]
+            },
+            {
+                "steps": 30999577,
+                "file_path": "results\\abdo_try_fixes\\KartAgent\\KartAgent-30999577.onnx",
+                "reward": -1.8167916238307953,
+                "creation_time": 1769769529.4333537,
+                "auxillary_file_paths": [
+                    "results\\abdo_try_fixes\\KartAgent\\KartAgent-30999577.pt"
+                ]
+            },
+            {
+                "steps": 31499212,
+                "file_path": "results\\abdo_try_fixes\\KartAgent\\KartAgent-31499212.onnx",
+                "reward": null,
+                "creation_time": 1769770377.4343894,
+                "auxillary_file_paths": [
+                    "results\\abdo_try_fixes\\KartAgent\\KartAgent-31499212.pt"
+                ]
+            },
+            {
+                "steps": 31754927,
+                "file_path": "results\\abdo_try_fixes\\KartAgent\\KartAgent-31754927.onnx",
+                "reward": null,
+                "creation_time": 1769770796.4413383,
+                "auxillary_file_paths": [
+                    "results\\abdo_try_fixes\\KartAgent\\KartAgent-31754927.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 31754927,
+            "file_path": "results\\abdo_try_fixes\\KartAgent.onnx",
+            "reward": null,
+            "creation_time": 1769770796.4413383,
+            "auxillary_file_paths": [
+                "results\\abdo_try_fixes\\KartAgent\\KartAgent-31754927.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
